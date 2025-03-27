@@ -32,5 +32,7 @@ Fully connected layer1(1024 nodes) H1
 Hidden layer(2) 
 Softmax[0,1]
 
+### 
+![image alt](https://github.com/PriyaVasu/NLP---Sentiment-Analysis/blob/91c4d12b9c927e70953bb05fd3831ae09f04b47c/Suggestion%20mining%20from%20online%20review%20forums_using%20CNN.png)
 
 
