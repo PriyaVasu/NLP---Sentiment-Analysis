@@ -39,6 +39,7 @@ Softmax[0,1]
 ![image alt](https://github.com/PriyaVasu/NLP---Sentiment-Analysis/blob/91c4d12b9c927e70953bb05fd3831ae09f04b47c/Suggestion%20mining%20from%20online%20review%20forums_using%20CNN.png)
 
 ### Results:
+Trained and tested data (7916), and we have classified those sentences as positive or negative with an accuracy of 74%, further preprocessing on dataset can achieve better accuracy.
 ![image alt](https://github.com/PriyaVasu/NLP---Sentiment-Analysis/blob/4c30bca82e050eacf8b1d1b2163e15d0544db0ba/full_res.png)
 
 
