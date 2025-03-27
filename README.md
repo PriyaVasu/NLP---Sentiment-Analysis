@@ -1,14 +1,7 @@
 # NLP---Sentiment-Analysis
 ## Suggestion Mining from Online Reviews and Forums using CNN
 ### Import Libraries :
-import tensorflow as tf
-import numpy as np
-import nltk
-import string
-import numpy as np
-import pandas as pd
-from nltk.corpus import stopwords
-import gensim
+tensorflow, numpy, nltk, string, pandas, gensim, from nltk.corpus import stopwords, and
 from gensim import corpora, models, similarities
 
 ### Text cleaning
