@@ -1,5 +1,8 @@
 # NLP---Sentiment-Analysis
 ## Suggestion Mining from Online Reviews and Forums using CNN
+- Suggestion Mining can be defined as the extraction of suggestions from unstructured text, where the term 'suggestions' refers to the expressions of tips, advice, recommendations etc. 
+- Consumer opinions largely express positive and negative sentiments towards a given entity, but also tend to contain suggestions for improvising the entity or tips to the fellow consumers.
+- The task is to classify given sentences into suggestion and non-suggestion classes for only two domains: software developers suggestion forum, and hotel reviews.
 ### Import Libraries :
 tensorflow, numpy, nltk, string, pandas, gensim, from nltk.corpus import stopwords, and
 from gensim import corpora, models, similarities
