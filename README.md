@@ -35,4 +35,7 @@ Softmax[0,1]
 ### Work Flow: 
 ![image alt](https://github.com/PriyaVasu/NLP---Sentiment-Analysis/blob/91c4d12b9c927e70953bb05fd3831ae09f04b47c/Suggestion%20mining%20from%20online%20review%20forums_using%20CNN.png)
 
+### Results:
+![image alt](https://github.com/PriyaVasu/NLP---Sentiment-Analysis/blob/4c30bca82e050eacf8b1d1b2163e15d0544db0ba/full_res.png)
+
 
